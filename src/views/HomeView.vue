@@ -127,7 +127,7 @@ main{
 }
 
 .card-search{
-  padding: 2rem 0;
+  padding: 2rem 1rem;
 }
 
 .input{
