@@ -20,7 +20,7 @@ const currencies = {
   Venezuela: 'VES',
 }
 
-const DEFAULT = 'COP'
+const DEFAULT = 'USD'
 
 async function getItems(param){
   try {
